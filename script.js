@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const contactType = e.target.dataset.contactType;
                 if (contactType === 'loja') {
                     const contactName = "Trem Bão de Minas - Paracambi";
-                    const phoneNumber = "21977997625";
+                    const phoneNumber = "219773578736";
                     const emailAddress = "trembaodeminaspbi@gmail.com";
                     const website = "https://guiandradx.github.io/Trem-de-Minas-Site/";
                     const menuPdfUrl = "hhttps://guiandradx.github.io/Trem-de-Minas-Site/cardapio.pdf";
@@ -267,3 +267,4 @@ END:VCARD`;
         });
     }
 });
+
